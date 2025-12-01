@@ -1,0 +1,11 @@
+fastapi
+uvicorn[standard]
+pydantic>=2.0
+sqlmodel
+httpx
+pytest
+pytest-asyncio
+mypy
+ruff
+sphinx
+requests
